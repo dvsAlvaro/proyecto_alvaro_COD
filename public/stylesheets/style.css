@@ -1,0 +1,41 @@
+body {
+  background-color: #000;
+  color: #ddd;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: #0f0;
+}
+
+.jumbotron {
+  background: url('path/to/your/call-of-duty-background.jpg') center center/cover no-repeat;
+}
+
+.btn-primary {
+  background-color: #0f0;
+  border-color: #0f0;
+}
+
+.btn-primary:hover {
+  background-color: #0c0;
+  border-color: #0c0;
+}
+
+form label {
+  color: #0f0;
+}
+
+form .form-control {
+  background-color: #333;
+  color: #fff;
+  border: 1px solid #0f0;
+}
+
+form .form-check-label {
+  color: #0f0;
+}
+
+form .btn-primary {
+  background-color: #0f0;
+  border-color: #0f0;
+}
