@@ -37,3 +37,5 @@ coverage/
 dist/
 
 # Ignore any local files or directories that you don't want to commit
+
+registro.json
